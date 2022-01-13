@@ -18,3 +18,9 @@ password_field.send_keys("zinvoz-9tupgu-voSruw")
 
 login_button = chrome_driver.find_element(By.ID, 'u_0_d_tN')
 login_button.click()
+
+print()
+print()
+print()
+print()
+
